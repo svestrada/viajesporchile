@@ -1,0 +1,70 @@
+body * {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Navbar*/
+.navbar {
+  background-color: transparent;
+}
+
+.navbar img {
+  width: 3rem;
+  height: 2rem;
+}
+
+.navbar a {
+  color: white;
+}
+/* Navbar*/
+
+/* Section -1*/
+section {
+  background-color: black;
+}
+
+#plane {
+  background-color: aqua;
+  color: white;
+  justify-content: center;
+}
+
+#montaña {
+  background-color: aqua;
+  color: white;
+  justify-content: center;
+}
+
+#ruta {
+  background-color: aqua;
+  color: white;
+  justify-content: center;
+}
+/* Section-1*/
+
+/* Section -2*/
+#paisajes {
+  background-color: aqua;
+  color: white; 
+}
+/* Section -2*/
+
+/* Section -3-Formulario*/
+#boton {
+  background-color: aqua;
+  color: white;
+  margin-bottom: 3rem
+  ;
+}
+/* Section -3-Formulario*/
+
+/* Footer*/
+footer {
+  background-color: aqua;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-right: 10rem;
+}
+/* Footer*/
