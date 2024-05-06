@@ -48,6 +48,9 @@ section {
 #paisajes {
   background-color: aqua;
   color: white; 
+  width: auto;
+  height: 15rem;
+  object-fit: cover;
 }
 /* Section -2*/
 
