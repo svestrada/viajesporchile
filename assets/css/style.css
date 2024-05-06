@@ -45,11 +45,35 @@ section {
 /* Section-1*/
 
 /* Section -2*/
-#paisajes {
+#paisaje-1 {
   background-color: aqua;
   color: white; 
   width: auto;
-  height: 15rem;
+  height: 25rem;
+  object-fit: cover;
+}
+
+#paisaje-2 {
+  background-color: aqua;
+  color: white; 
+  width: auto;
+  height: 25rem;
+  object-fit: cover;
+}
+
+#paisaje-3 {
+  background-color: aqua;
+  color: white; 
+  width: auto;
+  height: 25rem;
+  object-fit: cover;
+}
+
+#paisaje-4 {
+  background-color: aqua;
+  color: white; 
+  width: auto;
+  height: 25rem;
   object-fit: cover;
 }
 /* Section -2*/
